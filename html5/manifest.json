@@ -1,0 +1,17 @@
+{
+    "name": "html5.nathan-osman",
+    "description": "description of html5",
+    "architecture": "all",
+    "title": "html5",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop":  "app.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nathan Osman <nathan@quickmediasolutions.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
