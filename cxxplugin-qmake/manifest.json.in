@@ -1,0 +1,17 @@
+{
+    "name": "cxxplugin-qmake.nathan-osman",
+    "description": "description of cxxplugin-qmake",
+    "architecture": "@CLICK_ARCH@",
+    "title": "cxxplugin-qmake",
+    "hooks": {
+        "app": {
+            "apparmor": "app/app.apparmor",
+            "desktop":  "app/app.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nathan Osman <nathan@quickmediasolutions.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

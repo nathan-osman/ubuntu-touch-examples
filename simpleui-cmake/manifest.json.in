@@ -1,0 +1,17 @@
+{
+    "name": "@APP_ID@",
+    "description": "description of simpleui-cmake",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "myapp": {
+            "apparmor": "myapp.apparmor",
+            "desktop":  "myapp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nathan Osman <nathan@quickmediasolutions.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

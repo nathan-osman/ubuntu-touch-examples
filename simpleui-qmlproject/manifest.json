@@ -1,0 +1,17 @@
+{
+    "name": "simpleui-qmlproject.nathan-osman",
+    "description": "description of simpleui-qmlproject",
+    "architecture": "all",
+    "title": "simpleui-qmlproject",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop":  "app.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nathan Osman <nathan@quickmediasolutions.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
