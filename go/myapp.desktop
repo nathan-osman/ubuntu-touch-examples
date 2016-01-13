@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=myapp
+Exec=go
+Icon=go.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

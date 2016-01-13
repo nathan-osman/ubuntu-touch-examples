@@ -1,0 +1,17 @@
+{
+    "name": "go.nathan-osman",
+    "description": "description of go",
+    "architecture": "all",
+    "title": "go",
+    "hooks": {
+        "myapp": {
+            "apparmor": "myapp.apparmor",
+            "desktop":  "myapp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Nathan Osman <nathan@quickmediasolutions.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
